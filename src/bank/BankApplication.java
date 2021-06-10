@@ -25,6 +25,7 @@ class BankAccount
 		previouString = deposit+ " "+ "has been deposited";
 		System.out.println("------------------------------------------------");
 		System.out.println('\n');
+		System.out.println("hiii");
 	}
 	
 	public void withdraw() 
